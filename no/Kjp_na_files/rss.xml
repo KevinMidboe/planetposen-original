@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Kjøp nå</title>
+    <link>http://www.planetposen.no/Planetposen/Kjp_na.html</link>
+    <description>
+</description>
+    <item>
+      <title>JULESKOG</title>
+      <link>http://www.planetposen.no/Planetposen/Kjp_na.html#0</link>
+      <guid isPermaLink="false">52eb8932-aa84-495d-ba97-a7d689241664</guid>
+      <enclosure url="http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1244/IMG_1244.jpg" length="135459" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1244/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1244/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_188_48&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;JULESKOG&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>BURSDAG</title>
+      <link>http://www.planetposen.no/Planetposen/Kjp_na.html#1</link>
+      <guid isPermaLink="false">0841878f-6409-4053-87b2-3594c0ef9886</guid>
+      <enclosure url="http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1247/IMG_1247.jpg" length="189938" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1247/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1247/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_188_48&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;BURSDAG&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>PEPPERKAKE</title>
+      <link>http://www.planetposen.no/Planetposen/Kjp_na.html#2</link>
+      <guid isPermaLink="false">c5626580-b838-44bf-b4fb-c6890a60e466</guid>
+      <enclosure url="http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1245/IMG_1245.jpg" length="172662" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1245/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.planetposen.no/Planetposen/Kjp_na_files/Media/IMG_1245/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_188_48&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;PEPPERKAKE&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+
+.constructionBanner {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: white;
+  font-size: 1rem;
+  font-weight: 300;
+  text-align: center;
+  background-color: #ed8b35;
+  width: 100%;
+  padding: 0.7rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.constructionBanner a {
+  color: white;
+  border-bottom: 2.3px solid grey;
+  text-decoration: none;
+}
+
+.constructionBanner a:hover {
+  border-bottom: 2.3px solid white;
+}

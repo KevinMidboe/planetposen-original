@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:459920AC-4315-4F79-A812-8D5BC5B34176</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-11-21T16:19:39+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:32A9098C-3F70-4611-AD14-3077EF9EA235</id>
+  <title>Hjem</title>
+  <title xmlns="urn:iweb:">Hjem</title>
+  <in-navbar xmlns="urn:iweb:">32A9098C-3F70-4611-AD14-3077EF9EA235</in-navbar>
+  <link rel="alternate" href="Hjem.html"/>
+  <updated>2018-11-21T16:19:39.001+01:00</updated>
+  <content>Hjem</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D7FDC154-75B0-4560-8966-0F78087BF8B7</id>
+  <title>0m oss</title>
+  <title xmlns="urn:iweb:">0m oss</title>
+  <in-navbar xmlns="urn:iweb:">D7FDC154-75B0-4560-8966-0F78087BF8B7</in-navbar>
+  <link rel="alternate" href="0m_oss.html"/>
+  <updated>2018-11-21T16:19:39.002+01:00</updated>
+  <content>0m oss</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:12C82169-F876-4DEA-BA0F-524F32E706CD</id>
+  <title>Kjøp nå</title>
+  <title xmlns="urn:iweb:">Kjøp nå</title>
+  <in-navbar xmlns="urn:iweb:">12C82169-F876-4DEA-BA0F-524F32E706CD</in-navbar>
+  <link rel="alternate" href="Kjp_na.html"/>
+  <updated>2018-11-21T16:19:39.003+01:00</updated>
+  <content>Kjøp nå</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:26D3AFCF-7D39-4B16-8F33-B84CB0A8F5C6</id>
+  <title>Forskjellen!</title>
+  <title xmlns="urn:iweb:">Forskjellen!</title>
+  <in-navbar xmlns="urn:iweb:">26D3AFCF-7D39-4B16-8F33-B84CB0A8F5C6</in-navbar>
+  <link rel="alternate" href="Forskjellen%21.html"/>
+  <updated>2018-11-21T16:19:39.004+01:00</updated>
+  <content>Forskjellen!</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:65E5425A-DCD8-4E95-B24E-E8D51114FF13</id>
+  <title>Kontakt oss</title>
+  <title xmlns="urn:iweb:">Kontakt oss</title>
+  <in-navbar xmlns="urn:iweb:">65E5425A-DCD8-4E95-B24E-E8D51114FF13</in-navbar>
+  <link rel="alternate" href="Kontakt_oss.html"/>
+  <updated>2018-11-21T16:19:39.005+01:00</updated>
+  <content>Kontakt oss</content>
+ </entry>
+</feed>

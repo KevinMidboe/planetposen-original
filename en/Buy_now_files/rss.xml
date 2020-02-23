@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Buy now </title>
+    <link>http://www.planetposen.no/en/Buy_now.html</link>
+    <description>Buy now </description>
+    <item>
+      <title>FOREST DEER</title>
+      <link>http://www.planetposen.no/en/Buy_now.html#0</link>
+      <guid isPermaLink="false">df12db95-c4f8-4c71-9123-f1b8288d0d2e</guid>
+      <enclosure url="http://www.planetposen.no/en/Buy_now_files/Media/IMG_1244/IMG_1244.jpg" length="135459" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.planetposen.no/en/Buy_now_files/Media/IMG_1244/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.planetposen.no/en/Buy_now_files/Media/IMG_1244/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_191_48&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;FOREST DEER&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>BIRTHDAY</title>
+      <link>http://www.planetposen.no/en/Buy_now.html#1</link>
+      <guid isPermaLink="false">534d78db-9cd6-4803-8b8b-7821e62a1af8</guid>
+      <enclosure url="http://www.planetposen.no/en/Buy_now_files/Media/IMG_1247/IMG_1247.jpg" length="189938" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.planetposen.no/en/Buy_now_files/Media/IMG_1247/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.planetposen.no/en/Buy_now_files/Media/IMG_1247/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_191_48&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;BIRTHDAY&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>GINGERBREAD</title>
+      <link>http://www.planetposen.no/en/Buy_now.html#2</link>
+      <guid isPermaLink="false">7af3b5d4-22e2-4ae5-8e73-313af1522e5c</guid>
+      <enclosure url="http://www.planetposen.no/en/Buy_now_files/Media/IMG_1245/IMG_1245.jpg" length="172662" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.planetposen.no/en/Buy_now_files/Media/IMG_1245/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.planetposen.no/en/Buy_now_files/Media/IMG_1245/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_191_48&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;GINGERBREAD&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
